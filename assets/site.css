@@ -6,8 +6,8 @@
   --sans:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
   --mono:"IBM Plex Mono",Consolas,monospace;
   --label-w:260px;
-  --grid-major:color-mix(in srgb,var(--accent) 26%,transparent);
-  --grid-minor:color-mix(in srgb,var(--accent) 12%,transparent);
+  --grid-major:color-mix(in srgb,var(--accent) 17%,transparent);
+  --grid-minor:color-mix(in srgb,var(--accent) 8%,transparent);
   color-scheme:light;
 }
 :root[lang="ru"]{--serif:"Literata",Georgia,serif}
